@@ -15,7 +15,7 @@ PHP from Version 7.4 with following extensions:
 - mysql
 - latest version of composer
 
-the apache module module:
+the apache module:
 
 - rewrite
 
