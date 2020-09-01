@@ -4,7 +4,7 @@ PHP from Version 7.4 with following extensions:
 
 - gd
 - bcmath
-- memachced
+- memcached
 - xdebug
 - ldap
 - intl
